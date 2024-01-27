@@ -1,6 +1,7 @@
 # React-ChatApp-Coding-Ninjas
 
-# Hosted-Website Link : - https://tosif-chatting-app.onrender.com
+# Hosted-Website Link : 
+https://tosif-chatting-app.onrender.com
 
 This is a frontend implementation of a chat application built using React, where users can engage in conversations with their contacts. The application allows users to search for conversations by contact name, view and send messages, and manage conversations.
 
