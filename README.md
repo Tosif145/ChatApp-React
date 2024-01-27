@@ -42,10 +42,19 @@ CSS (for styling)
 ![image](src/screenshots/HomePage.png)
 
 
+
+
+
 ![image](src/screenshots/SelectContact.png)
 
 
+
+
+
 ![image](src/screenshots/chatMessage.png)
+
+
+
 
 
 ![image](src/screenshots/SerachContact.png)
